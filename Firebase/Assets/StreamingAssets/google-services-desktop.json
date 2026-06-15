@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791538609785",
+    "project_id": "sarang-dbcae",
+    "storage_bucket": "sarang-dbcae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791538609785:android:2b5c76e96fc87f6622aea8",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Unity_Firebase_Online_Programming_Final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7cEpzQFyLxMuhg2Q_S3Pey7ga-hBwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
